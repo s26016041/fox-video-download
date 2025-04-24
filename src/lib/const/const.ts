@@ -24,3 +24,5 @@ export default function GetConst(url: string): ConstProps {
             return { domain, id };
     }
 }
+
+
